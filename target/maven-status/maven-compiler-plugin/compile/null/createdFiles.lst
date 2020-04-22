@@ -1,0 +1,13 @@
+org/csapi/schema/parlayx/common/v2_1/TimeMetrics.class
+com/lamark/business/vivobr/core/request/SmsMessage.class
+org/csapi/wsdl/parlayx/sms/notification/v2_2/service/WSPublisher.class
+org/csapi/schema/parlayx/common/v2_1/SimpleReference.class
+org/csapi/schema/parlayx/common/v2_1/ServiceError.class
+org/csapi/schema/parlayx/sms/v2_2/SmsFormat.class
+org/csapi/schema/parlayx/common/v2_1/TimeMetric.class
+org/csapi/schema/parlayx/common/v2_1/PolicyException.class
+org/csapi/schema/parlayx/common/v2_1/package-info.class
+org/csapi/wsdl/parlayx/sms/notification/v2_2/service/SmsNotificationImpl.class
+org/csapi/schema/parlayx/common/v2_1/ChargingInformation.class
+org/csapi/schema/parlayx/common/v2_1/ServiceException.class
+org/csapi/schema/parlayx/common/v2_1/ObjectFactory.class

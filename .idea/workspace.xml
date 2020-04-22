@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0522e288-779a-4efc-b931-51d1a72468b1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="business-vivobr-ms" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZVDLvtK2Iz8dIlY1iGIPzAov3Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../quarkus-quickstarts-master/quarkus-quickstarts-master/getting-started-testing" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lamark.business.vivobr.api" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Debug Quarkus Vivobr" type="Remote">
+      <module name="business-vivobr-ms" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0522e288-779a-4efc-b931-51d1a72468b1" name="Default Changelist" comment="" />
+      <created>1584915315493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584915315493</updated>
+      <workItem from="1584915319706" duration="17370000" />
+      <workItem from="1585139857590" duration="6678000" />
+      <workItem from="1585167271821" duration="660000" />
+      <workItem from="1586820448526" duration="6988000" />
+      <workItem from="1587230249014" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584916210481">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="424" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1584916210481" />
+    <state x="729" y="169" key="#com.intellij.ide.util.MemberChooser" timestamp="1585088255081">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="729" y="169" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1044@0.0.1920.1044" timestamp="1585088255081" />
+    <state x="748" y="280" key="FileChooserDialogImpl" timestamp="1586876025763">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="748" y="280" key="FileChooserDialogImpl/0.0.1920.1044@0.0.1920.1044" timestamp="1586876025763" />
+    <state width="1866" height="325" key="GridCell.Tab.0.bottom" timestamp="1585069065168">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1866" height="325" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1585069065168" />
+    <state width="1866" height="325" key="GridCell.Tab.0.center" timestamp="1585069065167">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1866" height="325" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1585069065167" />
+    <state width="1866" height="325" key="GridCell.Tab.0.left" timestamp="1585069065167">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1866" height="325" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1585069065167" />
+    <state width="1866" height="325" key="GridCell.Tab.0.right" timestamp="1585069065167">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1866" height="325" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1585069065167" />
+    <state width="1866" height="325" key="GridCell.Tab.1.bottom" timestamp="1585069065169">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1866" height="325" key="GridCell.Tab.1.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1585069065169" />
+    <state width="1866" height="325" key="GridCell.Tab.1.center" timestamp="1585069065168">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1866" height="325" key="GridCell.Tab.1.center/0.0.1920.1044@0.0.1920.1044" timestamp="1585069065168" />
+    <state width="1866" height="325" key="GridCell.Tab.1.left" timestamp="1585069065168">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1866" height="325" key="GridCell.Tab.1.left/0.0.1920.1044@0.0.1920.1044" timestamp="1585069065168" />
+    <state width="1866" height="325" key="GridCell.Tab.1.right" timestamp="1585069065168">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1866" height="325" key="GridCell.Tab.1.right/0.0.1920.1044@0.0.1920.1044" timestamp="1585069065168" />
+    <state x="461" y="140" key="SettingsEditor" timestamp="1584916018761">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="461" y="140" key="SettingsEditor/0.0.1920.1044@0.0.1920.1044" timestamp="1584916018761" />
+    <state x="551" y="9" width="818" height="1026" key="find.popup" timestamp="1585139930008">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="551" y="9" width="818" height="1026" key="find.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1585139930008" />
+    <state x="167" y="28" key="new project wizard" timestamp="1585140930638">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="167" y="28" key="new project wizard/0.0.1920.1044@0.0.1920.1044" timestamp="1585140930638" />
+  </component>
+</project>
