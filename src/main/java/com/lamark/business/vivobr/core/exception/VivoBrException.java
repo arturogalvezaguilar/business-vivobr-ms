@@ -9,7 +9,7 @@ public class VivoBrException extends Exception implements Serializable {
 	private ExceptionDto exceptionDto;
 	
 	public VivoBrException(ExceptionDto dto) {
-		super(dto.getMessage());
+//		super(dto.getMessage());
 		this.exceptionDto=dto;
 	}
 

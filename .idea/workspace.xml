@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0522e288-779a-4efc-b931-51d1a72468b1" name="Default Changelist" comment="" />
+    <list default="true" id="0522e288-779a-4efc-b931-51d1a72468b1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lamark/business/vivobr/api/MOController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lamark/business/vivobr/api/MOController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lamark/business/vivobr/core/service/impl/MOServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lamark/business/vivobr/core/service/impl/MOServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.lamark.business/business-vivobr-ms/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/com.lamark.business/business-vivobr-ms/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.lamark.business/business-vivobr-ms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/com.lamark.business/business-vivobr-ms/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lamark/business/vivobr/api/MOController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lamark/business/vivobr/api/MOController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lamark/business/vivobr/core/service/impl/MOServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lamark/business/vivobr/core/service/impl/MOServiceImpl.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +41,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZVDLvtK2Iz8dIlY1iGIPzAov3Q" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,7 +54,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../quarkus-quickstarts-master/quarkus-quickstarts-master/getting-started-testing" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -83,6 +96,7 @@
       <workItem from="1585167271821" duration="660000" />
       <workItem from="1586820448526" duration="6988000" />
       <workItem from="1587230249014" duration="7000" />
+      <workItem from="1587927937231" duration="646000" />
     </task>
     <servers />
   </component>

@@ -17,6 +17,10 @@
     <quarkus.platform.group-id>io.quarkus</quarkus.platform.group-id>
     <quarkus.platform.version>1.3.0.Final</quarkus.platform.version>
     <surefire-plugin.version>2.22.1</surefire-plugin.version>
+		 <!--VERT.X INI -->
+    	<main.class>nl.janssen.vertxrest.VertXMain</main.class>
+    	<vertx.version>3.5.1</vertx.version>
+		 <!--VERT.X FIN -->
   </properties>
   <dependencyManagement>
     <dependencies>
@@ -75,6 +79,46 @@
 	    <artifactId>commons-lang3</artifactId>
 	    <version>3.9</version>
 	</dependency>
+		<!--  VERT.X  INI-->
+		<dependency>
+			<groupId>io.vertx</groupId>
+			<artifactId>vertx-core</artifactId>
+			<version>${vertx.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>io.vertx</groupId>
+			<artifactId>vertx-rx-java2</artifactId>
+			<version>${vertx.version}</version>
+		</dependency>
+
+		<dependency>
+			<groupId>io.vertx</groupId>
+			<artifactId>vertx-web-client</artifactId>
+			<version>${vertx.version}</version>
+		</dependency>
+
+		<dependency>
+			<groupId>io.vertx</groupId>
+			<artifactId>vertx-web</artifactId>
+			<version>${vertx.version}</version>
+		</dependency>
+		<!--  VERT.X  FIN-->
+		
+		  <!-- Logging dependencies -->
+
+<!--       <dependency> -->
+<!--         <groupId>org.apache.logging.log4j</groupId> -->
+<!--         <artifactId>log4j-api</artifactId> -->
+<!--         <version>${log4j.version}</version> -->
+<!--       </dependency> -->
+<!--       <dependency> -->
+<!--         <groupId>org.apache.logging.log4j</groupId> -->
+<!--         <artifactId>log4j-core</artifactId> -->
+<!--         <version>${log4j.version}</version> -->
+<!--       </dependency> -->
+		
+		
+		
   </dependencies>
   <build>
     <plugins>
